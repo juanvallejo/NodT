@@ -5,6 +5,10 @@ Modular application server with websocket support, and mysql library interface b
 
 MIME type handler (for common files) and request router included.
 
+###Openshift
+
+Comes with built-in Openshift support
+
 ###API Endpoints
 
 Framework features a work-in-progress API endpoint handler, as well as public-facing API interface.
