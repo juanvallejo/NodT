@@ -1,0 +1,31 @@
+{
+  "name": "NodeServer",
+  "version": "1.0.0",
+  "description": "Modular Server for Node.js Applications",
+  "keywords": [
+    "Node.js",
+    "modular",
+    "server",
+    "openshift"
+  ],
+  "author": {
+    "name": "Juan Vallejo",
+    "email": "juan.vallejo.12@cnu.edu",
+    "url": "http://github.com/juanvallejo"
+  },
+  "homepage": "http://github.com/juanvallejo",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/juanvallejo"
+  },
+
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+
+  "private": false,
+  "main": "index.js"
+}
